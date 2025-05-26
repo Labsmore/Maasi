@@ -22,7 +22,7 @@ A fully 3D printed, easy-to-use and open-source spin coater.
 
 Labsmore fork or original project here: https://github.com/klotzsch-lab/Maasi
 
-We are trying to smoothe out some of the rough edges and get it out to more people.
+We are trying to smooth out some of the rough edges and get it out to more people.
   
 You can find some of our notes including pre-compiled firmware here: https://docs.google.com/document/d/1q8YxEo6OFKYewxjzeC29vybrB1PzPGwMxrUwC158PPo/edit?tab=t.0
 
