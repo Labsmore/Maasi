@@ -16,16 +16,18 @@
 
 ## maasi: Open source spin coater
 
-## WARNING!!!!! This project is no longer actively maintained. 
 
-## Proceeding to build or use this project is at your own risk and responsibility.
-  
 
 A fully 3D printed, easy-to-use and open-source spin coater.
 
-  
+Labsmore fork or original project here: https://github.com/klotzsch-lab/Maasi
 
+We are trying to smoothe out some of the rough edges and get it out to more people.
   
+You can find some of our notes including pre-compiled firmware here: https://docs.google.com/document/d/1q8YxEo6OFKYewxjzeC29vybrB1PzPGwMxrUwC158PPo/edit?tab=t.0
+
+Want to buy one pre-assembled? Reach out to support@labsmore.com
+
 
 **Build tutorial**: https://www.youtube.com/watch?v=bhJrJDhlixs
 
