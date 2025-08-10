@@ -1,7 +1,7 @@
 
   
 
-![poseidon_logo](https://github.com/klotzsch-lab/Maasi/blob/main/Images/render_tittle_logo.png?raw=true)
+![poseidon_logo](https://github.com/klotzsch-lab/Maasi/blob/main/images/render_tittle_logo.png?raw=true)
 
   
 
@@ -52,7 +52,7 @@ Here we present Maasi, an affordable Spin Coater that is easy to build and has a
   
   
 
-![using_maasi](https://github.com/klotzsch-lab/Maasi/blob/main/Images/use_animation.gif?raw=true)
+![using_maasi](https://github.com/klotzsch-lab/Maasi/blob/main/images/use_animation.gif?raw=true)
 
   
 
@@ -159,7 +159,7 @@ The required version for this project is the v32.7
 An arduino UNO or nano is needed as flashing device between the PC and the ESC.
 
 ###  Putting together the Hardware
-![circuit_diagram_maasi](https://github.com/klotzsch-lab/Maasi/blob/main/Images/circuit.png?raw=true)
+![circuit_diagram_maasi](https://github.com/klotzsch-lab/Maasi/blob/main/images/circuit.png?raw=true)
 
 
 ## Safety Considerations
